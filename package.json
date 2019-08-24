@@ -1,0 +1,22 @@
+{
+  "name": "continuos-deploy",
+  "version": "1.0.0",
+  "description": "Continuos deploy is an app that makes a continuos delivery for apps in active hosting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiggerCrayonZ/github-api.git"
+  },
+  "author": "BiggerCrayonZ (Raúl Reza)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BiggerCrayonZ/github-api/issues"
+  },
+  "homepage": "https://github.com/BiggerCrayonZ/github-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
